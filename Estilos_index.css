@@ -1,0 +1,55 @@
+@import "Estilos.css";
+
+.service{
+    width: 20%;
+    border: 5px solid black;
+    padding: 2%;
+    margin: 3%;
+    float: left;
+    text-align: center;
+}
+    
+.service2{
+    width: 20%;
+    border: 5px solid black;
+    padding: 2%;
+    margin: 2%;
+    float: left;
+    text-align: center;
+}
+.service3{
+    width: 20%;
+    border: 5px solid black;
+    padding: 2%;
+    margin: 2%;
+    float:left;
+    text-align: center;
+   
+}
+.Agenda :hover{
+        color:red;
+}
+.Inicio_sesion :hover{
+    color:red;
+}
+.Catalogo :hover{
+    color:red
+}
+.Agenda{
+    text-decoration: none;
+    color:black;
+    font-weight: 600;
+    padding-right: 25px;
+}
+.Inicio_sesion{
+    text-decoration: none;
+    color:black;
+    font-weight: 600;
+    padding-right: 25px;
+}
+.Catalogo{
+    text-decoration: none;
+    color:black;
+    font-weight: 600;
+    padding-right: 25px;
+}
